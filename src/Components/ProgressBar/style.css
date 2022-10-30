@@ -1,0 +1,17 @@
+.progress-bar {
+  width: 100%;
+  display: flex;
+  margin-top: 5px;
+}
+
+.greenBar, .greyBar {
+  height: 3px;
+}
+
+.greenBar {
+  background-color: springgreen;
+}
+
+.greyBar {
+  background-color: grey;
+}

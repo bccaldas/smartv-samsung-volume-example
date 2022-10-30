@@ -1,0 +1,13 @@
+.secondary-volume {
+  width: 100%;
+  font-size: 25px;
+  max-width: 180px;
+  color: #fff;
+
+  padding: 10px 0;
+}
+
+.secondary-volume span {
+  display: block;
+  min-height: 33.6px;
+}
